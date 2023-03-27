@@ -8,7 +8,11 @@ sites:
     url: https://theskylive.com/jupiter-info
   - name: TSL Planetarium
     url: https://theskylive.com/planetarium?obj=jupiter
-
+  - name: TSL Comets
+    url: https://theskylive.com/comets
+  - name: TSL Guide
+    url: https://theskylive.com/guide
+    
 status-website:
   baseUrl: /upptime
   name: Your Status Website
