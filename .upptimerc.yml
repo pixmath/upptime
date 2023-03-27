@@ -12,3 +12,12 @@ sites:
 status-website:
   baseUrl: /upptime
   name: Your Status Website
+
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "*/5 * * * *"
