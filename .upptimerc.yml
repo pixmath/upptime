@@ -2,8 +2,12 @@ owner: pixmath
 repo: upptime
 
 sites:
-  - name: TSL
+  - name: TSL Home
     url: https://theskylive.com
+  - name: TSL Info
+    url: https://theskylive.com/jupiter-info
+  - name: TSL Planetarium
+      url: https://theskylive.com/planetarium?obj=jupiter
 
 status-website:
   baseUrl: /upptime
