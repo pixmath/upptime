@@ -18,7 +18,7 @@ status-website:
   name: Your Status Website
 
 workflowSchedule:
-  graphs: "*/5 * * * *"
+  graphs: "0 * * * *"
   responseTime: "*/5 * * * *"
   staticSite: "0 * * * *"
   summary: "0 * * * *"
